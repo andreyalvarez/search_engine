@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 1,
+    "name": "Store A",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "ID": 2,
+    "name": "Store B",
+    "city": "Doral",
+    "state": "FL"
+  },
+  {
+    "ID": 3,
+    "name": "Store C",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "ID": 4,
+    "name": "Store D",
+    "city": "Tampa",
+    "state": "FL"
+  },
+  {
+    "ID": 5,
+    "name": "Store E",
+    "city": "Savannah",
+    "state": "GA"
+  },
+  {
+    "ID": 6,
+    "name": "Store F",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+]
